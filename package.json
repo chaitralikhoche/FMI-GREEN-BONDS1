@@ -1,8 +1,7 @@
 {
-  "name": "green-bond-game",
+  "name": "green-bonds-game",
   "version": "1.0.0",
   "main": "server.js",
-  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
@@ -11,3 +10,4 @@
     "socket.io": "^4.7.2"
   }
 }
+
